@@ -203,5 +203,34 @@
     "height": 120,
     "fps": 20,
     "durationSec": 390
+  },
+  {
+    "name": "In the Virtual End - HL2 Parody",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody16.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/in-the-virtual-end-hl2-parody/in-the-virtual-end-hl2-parody_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 217
   }
 ]
