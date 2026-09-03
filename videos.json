@@ -136,5 +136,35 @@
     "height": 120,
     "fps": 20,
     "durationSec": 299
+  },
+  {
+    "name": "Fallen Kingdom - Minecraft Classics",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics17.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/fallen-kingdom-minecraft-classics/fallen-kingdom-minecraft-classics_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 288
   }
 ]
