@@ -298,5 +298,30 @@
     "height": 120,
     "fps": 20,
     "durationSec": 89
+  },
+  {
+    "name": "MakSim - Trudnyy vozrast",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast12.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/maksim-trudnyy-vozrast/maksim-trudnyy-vozrast_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 203
   }
 ]
