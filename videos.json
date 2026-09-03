@@ -1,28 +1,5 @@
 [
   {
-    "name": "Bad Apple",
-    "chunks": [
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple0.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple1.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple2.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple3.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple4.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple5.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple6.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple7.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple8.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple9.32vid",
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple10.32vid"
-    ],
-    "audio": [
-      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/bad-apple/bad-apple_a0.dfpwm"
-    ],
-    "width": 324,
-    "height": 120,
-    "fps": 20,
-    "durationSec": 219
-  },
-  {
     "name": "Evengelion Opening",
     "chunks": [
       "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening0.32vid",
