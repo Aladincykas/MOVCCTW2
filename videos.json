@@ -279,5 +279,24 @@
     "height": 120,
     "fps": 20,
     "durationSec": 92
+  },
+  {
+    "name": "Demon Slayer Opening - Gurenge",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge6.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/demon-slayer-opening-gurenge/demon-slayer-opening-gurenge_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 89
   }
 ]
