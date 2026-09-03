@@ -519,5 +519,37 @@
     "height": 120,
     "fps": 20,
     "durationSec": 185
+  },
+  {
+    "name": "50 Cent - In Da Club",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club19.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-in-da-club/50-cent-in-da-club_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 248
   }
 ]
