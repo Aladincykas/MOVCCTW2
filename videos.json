@@ -232,5 +232,32 @@
     "height": 120,
     "fps": 20,
     "durationSec": 217
+  },
+  {
+    "name": "DotA - Basshunter",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter14.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dota-basshunter/dota-basshunter_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 236
   }
 ]
