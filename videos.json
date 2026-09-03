@@ -166,5 +166,42 @@
     "height": 120,
     "fps": 20,
     "durationSec": 288
+  },
+  {
+    "name": "Take Back the Night - Minecraft Classics",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics19.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics20.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics21.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics22.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics23.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics24.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/take-back-the-night-minecraft-classics/take-back-the-night-minecraft-classics_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 390
   }
 ]
