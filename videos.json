@@ -423,5 +423,28 @@
     "height": 120,
     "fps": 20,
     "durationSec": 293
+  },
+  {
+    "name": "Dallasas - Kur Mano Laime",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime10.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/dallasas-kur-mano-laime/dallasas-kur-mano-laime_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 186
   }
 ]
