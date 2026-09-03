@@ -551,5 +551,31 @@
     "height": 120,
     "fps": 20,
     "durationSec": 248
+  },
+  {
+    "name": "50 Cent - Candy Shop",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop13.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/50-cent-candy-shop/50-cent-candy-shop_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 249
   }
 ]
