@@ -361,5 +361,32 @@
     "height": 120,
     "fps": 20,
     "durationSec": 303
+  },
+  {
+    "name": "KRP - BEAST ON THE BASS",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass14.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/krp-beast-on-the-bass/krp-beast-on-the-bass_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 186
   }
 ]
