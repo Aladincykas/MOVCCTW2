@@ -472,5 +472,29 @@
     "height": 120,
     "fps": 20,
     "durationSec": 216
+  },
+  {
+    "name": "NEMZZZ - 8AM IN MANNY",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny11.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/nemzzz-8am-in-manny/nemzzz-8am-in-manny_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 139
   }
 ]
