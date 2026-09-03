@@ -388,5 +388,40 @@
     "height": 120,
     "fps": 20,
     "durationSec": 186
+  },
+  {
+    "name": "Shamkhan Daldaev - Kavkaz",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz19.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz20.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz21.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz22.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/shamkhan-daldaev-kavkaz/shamkhan-daldaev-kavkaz_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 293
   }
 ]
