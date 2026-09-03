@@ -21,5 +21,38 @@
     "height": 120,
     "fps": 20,
     "durationSec": 219
+  },
+  {
+    "name": "Evengelion Opening",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening19.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening20.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/evengelion-opening/evengelion-opening_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 25,
+    "durationSec": 244
   }
 ]
