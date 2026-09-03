@@ -496,5 +496,28 @@
     "height": 120,
     "fps": 20,
     "durationSec": 139
+  },
+  {
+    "name": "Kambariokai",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai10.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/kambariokai/kambariokai_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 185
   }
 ]
