@@ -102,5 +102,39 @@
     "height": 120,
     "fps": 20,
     "durationSec": 257
+  },
+  {
+    "name": "Initial D - Night of Fire",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire7.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire8.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire9.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire10.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire11.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire12.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire13.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire14.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire15.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire16.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire17.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire18.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire19.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire20.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire21.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/initial-d-night-of-fire/initial-d-night-of-fire_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 299
   }
 ]
