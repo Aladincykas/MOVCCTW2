@@ -259,5 +259,25 @@
     "height": 120,
     "fps": 20,
     "durationSec": 236
+  },
+  {
+    "name": "Tokyo Ghoul Opening - Unravel",
+    "chunks": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel0.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel1.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel2.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel3.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel4.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel5.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel6.32vid",
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel7.32vid"
+    ],
+    "audio": [
+      "https://raw.githubusercontent.com/Aladincykas/MOVCCTW2/main/videos/tokyo-ghoul-opening-unravel/tokyo-ghoul-opening-unravel_a0.dfpwm"
+    ],
+    "width": 324,
+    "height": 120,
+    "fps": 20,
+    "durationSec": 92
   }
 ]
